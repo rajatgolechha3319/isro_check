@@ -1,0 +1,1111 @@
+Enter year: Enter month: Enter date: Enter start time (HHMMSS): Enter end time (HHMMSS): -------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+a
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011918548_20190914T011926548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011118548_20190914T011126548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011254548_20190914T011302548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011246548_20190914T011254548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011742548_20190914T011750548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011134548_20190914T011142548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011038548_20190914T011046548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011126548_20190914T011134548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011102548_20190914T011110548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011934548_20190914T011942548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011910548_20190914T011918548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011718548_20190914T011726548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011622548_20190914T011630548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011542548_20190914T011550548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011438548_20190914T011446548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011150548_20190914T011158548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011446548_20190914T011454548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011822548_20190914T011830548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011502548_20190914T011510548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011214548_20190914T011222548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011814548_20190914T011822548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011702548_20190914T011710548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011558548_20190914T011606548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011430548_20190914T011438548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011342548_20190914T011350548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011902548_20190914T011910548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011302548_20190914T011310548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011846548_20190914T011854548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011614548_20190914T011622548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011358548_20190914T011406548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011854548_20190914T011902548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011206548_20190914T011214548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011750548_20190914T011758548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011758548_20190914T011806548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011806548_20190914T011814548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011054548_20190914T011102548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011006548_20190914T011014548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011710548_20190914T011718548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011526548_20190914T011534548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011638548_20190914T011646548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011518548_20190914T011526548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011334548_20190914T011342548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011230548_20190914T011238548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011142548_20190914T011150548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011838548_20190914T011846548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011830548_20190914T011838548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011310548_20190914T011318548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011022548_20190914T011030548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011238548_20190914T011246548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011454548_20190914T011502548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011606548_20190914T011614548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011926548_20190914T011934548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011654548_20190914T011702548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011726548_20190914T011734548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011550548_20190914T011558548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011422548_20190914T011430548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011942548_20190914T011950548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011326548_20190914T011334548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011414548_20190914T011422548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011110548_20190914T011118548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011222548_20190914T011230548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011406548_20190914T011414548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011318548_20190914T011326548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011046548_20190914T011054548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011510548_20190914T011518548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011030548_20190914T011038548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+***ERROR: This file does not exist: /home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti***
+***Error reading parameters***
+*** Check if the parameter file is corrupted or if the input file exists
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated/ch2_xsm_20190914_v1_level2.gti
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011534548_20190914T011542548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011646548_20190914T011654548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011350548_20190914T011358548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011630548_20190914T011638548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011014548_20190914T011022548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011734548_20190914T011742548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011158548_20190914T011206548.fits
+c
+d
+e
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/raw
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/callibrated
+/home/baadalvm/MIDTERM_CODE/data/cla/data/calibrated/2019/09/14/ch2_cla_l1_20190914T011950548_20190914T011958548.fits

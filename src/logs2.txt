@@ -1,0 +1,194 @@
+-------------------------------------------------------------------------
+  XSMDAS: Data Analysis Software for Chandrayaan-II Solar X-ray Monitor  
+                     XSMDAS Version: 1.2              
+                     Module : XSMGENSPEC                        
+-------------------------------------------------------------------------
+------------------------------------------------------------------------
+MESSAGE: Ebounds CALDB file used is: /home/baadalvm/xsmdas_software/xsmdas/caldb/CH2xsmebounds20191214v01.fits
+MESSAGE: Gain CALDB file used is: /home/baadalvm/xsmdas_software/xsmdas/caldb/CH2xsmgain20200330v03.fits
+MESSAGE: Abscoef CALDB file used is: /home/baadalvm/xsmdas_software/xsmdas/caldb/CH2xsmabscoef20200410v01.fits
+MESSAGE: Effareapar CALDB file used is: /home/baadalvm/xsmdas_software/xsmdas/caldb/CH2xsmeffareapar20210423v02.fits
+MESSAGE: Syserror CALDB file used is: /home/baadalvm/xsmdas_software/xsmdas/caldb/CH2xsmsyserr20200410v01.fits
+ch2_xsm_20190914_000150_000158.pha  :FileExists.. Replacing the old file
+ch2_xsm_20190914_000150_000158.arf  :FileExists.. Replacing the old file
+
+MESSAGE: XSMGENSPEC completed successully
+MESSAGE: Output file = ch2_xsm_20190914_000150_000158.pha
+MESSAGE: Output ARF = ch2_xsm_20190914_000150_000158.arf
+
+
+1 spectrum  in use
+ 
+Spectral Data File: ch2_xsm_20190914_000150_000158.pha  Spectrum 1
+Net count rate (cts/s) for Spectrum:1  7.000e+00 +/- 9.390e-01
+ Assigned to Data Group 1 and Plot Group 1
+  Noticed Channels:  1-512
+  Telescope: CH-2_ORBITER Instrument: CH2_XSM  Channel Type: PI
+  Exposure Time: 8 sec
+ Using fit statistic: chi
+ Using Response (RMF) File            /home/baadalvm/xsmdas_software/xsmdas/caldb/CH2xsmresponse20200423v01.rmf for Source 1
+ Using Auxiliary Response (ARF) File  ch2_xsm_20190914_000150_000158.arf
+
+Logging to file: log_x2abund_test.txt
+    13 channels (1-13) ignored in spectrum #     1
+   400 channels (113-512) ignored in spectrum #     1
+
+
+========================================================================
+Model atable{tbmodel_20210827T210316000_20210827T210332000.fits}<1> + xrf_localmodel<2> Source No.: 1   Active/On
+Model Model Component  Parameter  Unit     Value
+ par  comp
+   1    1   scatter_modeladdnorm             0.0          +/-  0.0          
+   2    1   scatter_modelnorm                1.00000      +/-  0.0          
+   3    2   xrf_localmodelWt_Fe               5.00000      +/-  0.0          
+   4    2   xrf_localmodelWt_Ti               1.00000      +/-  0.0          
+   5    2   xrf_localmodelWt_Ca               9.00000      +/-  0.0          
+   6    2   xrf_localmodelWt_Si               21.0000      +/-  0.0          
+   7    2   xrf_localmodelWt_Al               14.0000      +/-  0.0          
+   8    2   xrf_localmodelWt_Mg               5.00000      +/-  0.0          
+   9    2   xrf_localmodelWt_Na               0.500000     +/-  0.0          
+  10    2   xrf_localmodelWt_O                45.0000      +/-  0.0          
+  11    2   xrf_localmodelnorm                1.00000      +/-  0.0          
+________________________________________________________________________
+
+
+Fit statistic  : Chi-Squared                   52.57     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number: 1
+
+Test statistic : Chi-Squared                   52.57     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number(s): 1 
+
+ Null hypothesis probability of 9.99e-01 with 88 degrees of freedom
+ Current data and model not fit yet.
+
+Fit statistic  : Chi-Squared                   52.57     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number: 1
+
+Test statistic : Chi-Squared                   52.57     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number(s): 1 
+
+ Null hypothesis probability of 9.99e-01 with 88 degrees of freedom
+ Current data and model not fit yet.
+
+Fit statistic  : Chi-Squared                   52.57     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number: 1
+
+Test statistic : Chi-Squared                   52.57     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number(s): 1 
+
+ Null hypothesis probability of 9.99e-01 with 89 degrees of freedom
+ Current data and model not fit yet.
+
+Fit statistic  : Chi-Squared                   52.57     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number: 1
+
+Test statistic : Chi-Squared                   52.57     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number(s): 1 
+
+ Null hypothesis probability of 9.99e-01 with 90 degrees of freedom
+ Current data and model not fit yet.
+
+Fit statistic  : Chi-Squared                   52.57     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number: 1
+
+Test statistic : Chi-Squared                   52.57     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number(s): 1 
+
+ Null hypothesis probability of 1.00e+00 with 91 degrees of freedom
+ Current data and model not fit yet.
+                                   Parameters
+Chi-Squared  |beta|/N    Lvl        2:norm       3:Wt_Fe       4:Wt_Ti       5:Wt_Ca       7:Wt_Al       8:Wt_Mg       9:Wt_Na       11:norm
+35.4103      0.493145     -1       3728.21       5.62838       1.95455       9.30319       15.0521       8.94956       2.15828       1640.61
+32.9235      0.0329648    -2       3819.12       2.50559       4.26374       6.93625       9.53612       14.8765       4.12318       16270.7
+31.6866      0.0891299    -1       2837.92       2.04297       5.64478       6.59413       5.28371       15.5690       4.89686       17573.7
+==========================================================================================
+ Variances and Principal Axes
+                 2        3        4        5        7        8        9       11  
+ 1.2539E+00| -0.0005  -0.4462  -0.4161  -0.4207  -0.1169  -0.4739  -0.4611  -0.0001  
+ 1.4364E+02|  0.0055  -0.1763  -0.1600  -0.1168  -0.0067  -0.4285   0.8637  -0.0000  
+ 2.4287E+02|  0.0049  -0.3118  -0.2372  -0.2926  -0.4912   0.6944   0.1935   0.0008  
+ 4.8728E+02| -0.0010   0.0032   0.7066  -0.7053   0.0437  -0.0295   0.0219  -0.0006  
+ 5.9946E+02|  0.0061  -0.2682  -0.2124  -0.1728   0.8614   0.3290   0.0524   0.0034  
+ 1.6086E+04|  0.0043  -0.7750   0.4478   0.4433  -0.0316  -0.0230  -0.0270   0.0080  
+ 4.7342E+06|  0.9999   0.0073   0.0019   0.0003  -0.0027  -0.0032  -0.0061   0.0082  
+ 2.5329E+10| -0.0082   0.0073  -0.0023  -0.0032  -0.0023  -0.0016  -0.0001   0.9999  
+------------------------------------------------------------------------------------------
+
+================================================================================================
+  Covariance Matrix
+        1           2           3           4           5           6           7           8   
+   6.444e+06  -1.487e+06   4.872e+05   6.688e+05   4.591e+05   3.100e+05  -1.607e+04  -2.081e+08
+  -1.487e+06   1.363e+06  -4.309e+05  -5.990e+05  -4.196e+05  -2.891e+05  -1.116e+04   1.851e+08
+   4.872e+05  -4.309e+05   1.373e+05   1.896e+05   1.317e+05   9.067e+04   3.257e+03  -5.821e+07
+   6.688e+05  -5.990e+05   1.896e+05   2.638e+05   1.839e+05   1.266e+05   4.690e+03  -8.120e+07
+   4.591e+05  -4.196e+05   1.317e+05   1.839e+05   1.308e+05   8.988e+04   3.584e+03  -5.744e+07
+   3.100e+05  -2.891e+05   9.067e+04   1.266e+05   8.988e+04   6.209e+04   2.495e+03  -3.957e+07
+  -1.607e+04  -1.116e+04   3.257e+03   4.690e+03   3.584e+03   2.495e+03   3.977e+02  -1.538e+06
+  -2.081e+08   1.851e+08  -5.821e+07  -8.120e+07  -5.744e+07  -3.957e+07  -1.538e+06   2.533e+10
+------------------------------------------------------------------------------------------------
+
+========================================================================
+Model atable{tbmodel_20210827T210316000_20210827T210332000.fits}<1> + xrf_localmodel<2> Source No.: 1   Active/On
+Model Model Component  Parameter  Unit     Value
+ par  comp
+   1    1   scatter_modeladdnorm             0.0          frozen
+   2    1   scatter_modelnorm                2837.92      +/-  2538.45      
+   3    2   xrf_localmodelWt_Fe               2.04297      +/-  1167.46      
+   4    2   xrf_localmodelWt_Ti               5.64478      +/-  370.557      
+   5    2   xrf_localmodelWt_Ca               6.59413      +/-  513.643      
+   6    2   xrf_localmodelWt_Si               14.9685      = 100 - (p3 + p4 + p5 + p7 + p8 + p9 + p10)
+   7    2   xrf_localmodelWt_Al               5.28371      +/-  361.681      
+   8    2   xrf_localmodelWt_Mg               15.5690      +/-  249.179      
+   9    2   xrf_localmodelWt_Na               4.89686      +/-  19.9429      
+  10    2   xrf_localmodelWt_O                45.0000      frozen
+  11    2   xrf_localmodelnorm                1.75737E+04  +/-  1.59139E+05  
+________________________________________________________________________
+
+
+Response Parameters:
+
+========================================================================
+Source No.: 1
+Rpar Spectrum Rmodel   Rpar_name  Unit   Value
+
+   1     1    gain     slope             1.00430      frozen
+   2     1    gain     offset            3.16000E-02  frozen
+________________________________________________________________________
+
+
+Fit statistic  : Chi-Squared                   31.69     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number: 1
+
+Test statistic : Chi-Squared                   31.69     using 99 bins.
+
+***Warning: Chi-square may not be valid due to bins with zero variance
+            in spectrum number(s): 1 
+
+ Null hypothesis probability of 1.00e+00 with 91 degrees of freedom
+Log file closed.
+/home/baadalvm/MIDTERM_CODE/data/xsm/data/2019/09/14/calibrated/ch2_xsm_20190914_v1_level2.gti
+PDF file copied to: /home/baadalvm/MIDTERM_CODE/output/ch2_xsm_20190914_000150_000158.pdf
+Log file copied to: /home/baadalvm/MIDTERM_CODE/output/log_ch2_xsm_20190914_000150_000158.txt
+Coordinates saved to: /home/baadalvm/MIDTERM_CODE/output/coordinates_ch2_xsm_20190914_000150_000158.txt

@@ -1,0 +1,99 @@
+    13 channels (1-13) ignored in spectrum #     1
+   400 channels (113-512) ignored in spectrum #     1
+
+
+========================================================================
+Model atable{tbmodel_20210827T210316000_20210827T210332000.fits}<1> + xrf_localmodel<2> Source No.: 1   Active/On
+Model Model Component  Parameter  Unit     Value
+ par  comp
+   1    1   scatter_modeladdnorm             0.0          +/-  0.0          
+   2    1   scatter_modelnorm                1.00000      +/-  0.0          
+   3    2   xrf_localmodelWt_Fe               5.00000      +/-  0.0          
+   4    2   xrf_localmodelWt_Ti               1.00000      +/-  0.0          
+   5    2   xrf_localmodelWt_Ca               9.00000      +/-  0.0          
+   6    2   xrf_localmodelWt_Si               21.0000      +/-  0.0          
+   7    2   xrf_localmodelWt_Al               14.0000      +/-  0.0          
+   8    2   xrf_localmodelWt_Mg               5.00000      +/-  0.0          
+   9    2   xrf_localmodelWt_Na               0.500000     +/-  0.0          
+  10    2   xrf_localmodelWt_O                45.0000      +/-  0.0          
+  11    2   xrf_localmodelnorm                1.00000      +/-  0.0          
+________________________________________________________________________
+
+
+Fit statistic  : Chi-Squared                    -nan     using 99 bins.
+
+Test statistic : Chi-Squared                    -nan     using 99 bins.
+ Current data and model not fit yet.
+
+Fit statistic  : Chi-Squared                    -nan     using 99 bins.
+
+Test statistic : Chi-Squared                    -nan     using 99 bins.
+ Current data and model not fit yet.
+
+Fit statistic  : Chi-Squared                    -nan     using 99 bins.
+
+Test statistic : Chi-Squared                    -nan     using 99 bins.
+ Current data and model not fit yet.
+
+Fit statistic  : Chi-Squared                    -nan     using 99 bins.
+
+Test statistic : Chi-Squared                    -nan     using 99 bins.
+ Current data and model not fit yet.
+
+Fit statistic  : Chi-Squared                    -nan     using 99 bins.
+
+Test statistic : Chi-Squared                    -nan     using 99 bins.
+ Current data and model not fit yet.
+                                   Parameters
+Chi-Squared  |beta|/N    Lvl        2:norm       3:Wt_Fe       4:Wt_Ti       5:Wt_Ca       7:Wt_Al       8:Wt_Mg       9:Wt_Na       11:norm
+ Due to zero model norms, the following fit parameters are temporarily frozen:3 4 5 7 8 9 
+30292        inf          -3   1.02006e+07       5.00000       1.00000       9.00000       14.0000       5.00000      0.500000       0.00000
+ Due to zero model norms, the following fit parameters are temporarily frozen:3 4 5 7 8 9 
+9025.98      0.00417373   -4   5.10592e+06       5.00000       1.00000       9.00000       14.0000       5.00000      0.500000       0.00000
+ Due to zero model norms, the following fit parameters are temporarily frozen:3 4 5 7 8 9 
+9025.98      4.17331e-07  -5   5.10541e+06       5.00000       1.00000       9.00000       14.0000       5.00000      0.500000       0.00000
+====================
+ Variances and Principal Axes
+                 2  
+ 1.2208E+09|  1.0000  
+--------------------
+
+============
+  Covariance Matrix
+        1   
+   1.221e+09
+------------
+
+========================================================================
+Model atable{tbmodel_20210827T210316000_20210827T210332000.fits}<1> + xrf_localmodel<2> Source No.: 1   Active/On
+Model Model Component  Parameter  Unit     Value
+ par  comp
+   1    1   scatter_modeladdnorm             0.0          frozen
+   2    1   scatter_modelnorm                5.10541E+06  +/-  3.49397E+04  
+   3    2   xrf_localmodelWt_Fe               5.00000      +/-  -1.00000     
+   4    2   xrf_localmodelWt_Ti               1.00000      +/-  -1.00000     
+   5    2   xrf_localmodelWt_Ca               9.00000      +/-  -1.00000     
+   6    2   xrf_localmodelWt_Si               20.5000      = 100 - (p3 + p4 + p5 + p7 + p8 + p9 + p10)
+   7    2   xrf_localmodelWt_Al               14.0000      +/-  -1.00000     
+   8    2   xrf_localmodelWt_Mg               5.00000      +/-  -1.00000     
+   9    2   xrf_localmodelWt_Na               0.500000     +/-  -1.00000     
+  10    2   xrf_localmodelWt_O                45.0000      frozen
+  11    2   xrf_localmodelnorm                0.0          +/-  -1.00000     
+________________________________________________________________________
+
+
+Response Parameters:
+
+========================================================================
+Source No.: 1
+Rpar Spectrum Rmodel   Rpar_name  Unit   Value
+
+   1     1    gain     slope             1.00430      frozen
+   2     1    gain     offset            3.16000E-02  frozen
+________________________________________________________________________
+
+
+Fit statistic  : Chi-Squared                 9025.98     using 99 bins.
+
+Test statistic : Chi-Squared                 9025.98     using 99 bins.
+ Null hypothesis probability of 0.00e+00 with 91 degrees of freedom

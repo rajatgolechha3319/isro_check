@@ -1,0 +1,30 @@
+#PyXspec: Output generated from Xset.save().  DO NOT MODIFY.
+
+statistic chi
+data 1:1 ch2_xsm_20210422_201505_201513.pha
+ignore 1:1-13,113-512
+gain fit 1:1
+         1.0043      -0.01       0.01        0.5        1.5          5
+         0.0316      -0.01         -1         -1          1          1
+
+
+method leven 3 0.01
+abund angr
+xsect vern
+cosmo 70 0 0.73
+xset delta 0.01
+systematic 0
+model  atable{tbmodel_20210827T210316000_20210827T210332000.fits} + xrf_localmodel
+              0    -0.0001          0          0         10         10
+    5.10541e+06       0.01          0          0      1e+20      1e+24
+              5       0.01          1          1         20         20
+              1       0.01      1e-06      1e-06         20         20
+              9       0.01          5          5         20         20
+/
+             14       0.01          5          5         20         20
+              5       0.01      1e-06      1e-06         20         20
+            0.5       0.01      1e-06      1e-06          5          5
+             45      -0.01         30         30         60         60
+              0       0.01          0          0      1e+20      1e+24
+newpar 6 = 100 - (p3 + p4 + p5 + p7 + p8 + p9 + p10)
+bayes off
